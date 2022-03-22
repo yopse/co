@@ -1,0 +1,21 @@
+body {
+
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-align: center;
+}
+
+ul li {
+
+     list-style: none;
+}
+
+
+input {
+    padding:8px;
+}
+
+
+a i {
+
+     color: red;
+}
